@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e0adcc2-0d95-473d-a914-f1d32760fd7b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sbb" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sbb" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sbb" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1725583786" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1725583785" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lXr68SlMd3glVdDx0V3vyRwGow" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.QuestionRepository.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SbbApplication.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JUnit.SbbApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa10.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa11.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa4.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa5.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa6.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa7.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa8.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SbbApplicationTests.testJpa9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SBS/IdeaProjects/sbb (1)/sbb/src/main/resources/static&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propGUI&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SBS\IdeaProjects\sbb (1)\sbb\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SbbApplication">
+    <configuration name="Answer" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.mysite.answer.Answer" />
+      <module name="sbb.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloController" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.mysite.sbb.HelloController" />
+      <module name="sbb.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainController" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.mysite.sbb.MainController" />
+      <module name="sbb.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.mysite.question.Question" />
+      <module name="sbb.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionRepository" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.mysite.question.QuestionRepository" />
+      <module name="sbb.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbbApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mysite.sbb.SbbApplication" />
+      <module name="sbb.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mysite.sbb.answer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbbApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sbb.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mysite.sbb.answer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mysite.sbb" />
+      <option name="MAIN_CLASS_NAME" value="com.mysite.sbb.SbbApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbbApplicationTests.testJpa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sbb.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mysite.sbb.answer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mysite.sbb" />
+      <option name="MAIN_CLASS_NAME" value="com.mysite.sbb.SbbApplicationTests" />
+      <option name="METHOD_NAME" value="testJpa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbbApplicationTests.testJpa1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sbb.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mysite.sbb.answer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mysite.sbb" />
+      <option name="MAIN_CLASS_NAME" value="com.mysite.sbb.SbbApplicationTests" />
+      <option name="METHOD_NAME" value="testJpa1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SbbApplicationTests.testJpa11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sbb.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mysite.sbb.answer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mysite.sbb" />
+      <option name="MAIN_CLASS_NAME" value="com.mysite.sbb.SbbApplicationTests" />
+      <option name="METHOD_NAME" value="testJpa11" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Answer" />
+      <item itemvalue="Application.HelloController" />
+      <item itemvalue="Application.MainController" />
+      <item itemvalue="Application.QuestionRepository" />
+      <item itemvalue="Application.Question" />
+      <item itemvalue="Application.SbbApplication" />
+      <item itemvalue="JUnit.SbbApplicationTests" />
+      <item itemvalue="JUnit.SbbApplicationTests.testJpa11" />
+      <item itemvalue="JUnit.SbbApplicationTests.testJpa1" />
+      <item itemvalue="JUnit.SbbApplicationTests.testJpa" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SbbApplication" />
+        <item itemvalue="JUnit.SbbApplicationTests.testJpa" />
+        <item itemvalue="JUnit.SbbApplicationTests" />
+        <item itemvalue="JUnit.SbbApplicationTests.testJpa1" />
+        <item itemvalue="JUnit.SbbApplicationTests.testJpa11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e0adcc2-0d95-473d-a914-f1d32760fd7b" name="Changes" comment="" />
+      <created>1725337083279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725337083279</updated>
+    </task>
+    <servers />
+  </component>
+</project>
